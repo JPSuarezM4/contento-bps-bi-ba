@@ -1,0 +1,27 @@
+.containerbg {
+    padding: 300px;
+    background-image: url('/images/network_communications_background_with_flowing_cyber_dots_1609.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+}
+
+.n {
+    background-color: yellow;
+}
+
+#bg1{
+    background-color: #D31602;
+    justify-content: center;
+}
+
+
+.navbar,
+.mr-auto {
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-between;
+}
